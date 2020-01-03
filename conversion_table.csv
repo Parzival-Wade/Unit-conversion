@@ -1,0 +1,10 @@
+﻿Distance:unit,Distance:value,Time:unit,Time:value
+mm,0.001,s,1
+cm,0.01,ms,0.001
+m,1,h,3600
+km,1000,day,86400
+mi,1609.34,wk,604800
+yd,0.9144,mo,2628000
+ft,0.3048,yr,31536000
+in,0.0254,century,3153600000
+,,millennium,31536000000
